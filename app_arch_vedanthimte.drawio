@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-09-25T03:20:44.772Z" agent="Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Mobile Safari/537.36" etag="3_gztl4vP4qxD2E9AA8j" version="21.8.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-09-25T03:21:13.998Z" agent="Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Mobile Safari/537.36" etag="cdPTWDJkyOeoWeggjU3P" version="21.8.2" type="github">
   <diagram id="TGpe45YdTHm00n5unMOi" name="Page-2">
-    <mxGraphModel dx="1336" dy="1549" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1816" dy="1549" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -164,7 +164,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="XvxGuA_PLaIaQm-edbHC-45" value="UrbnRover Architecture" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=5;fontSize=40;labelBorderColor=default;spacingTop=9;" vertex="1" parent="XvxGuA_PLaIaQm-edbHC-43">
-          <mxGeometry x="259.3458823529412" y="45.00000000000001" width="658.9411764705883" height="40" as="geometry" />
+          <mxGeometry x="239.9958823529412" y="40.00000000000001" width="658.9411764705883" height="40" as="geometry" />
         </mxCell>
         <mxCell id="XvxGuA_PLaIaQm-edbHC-34" value="Vedant Himte" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=40;textOpacity=20;" vertex="1" parent="XvxGuA_PLaIaQm-edbHC-43">
           <mxGeometry x="860" y="-10" width="400" height="90" as="geometry" />
