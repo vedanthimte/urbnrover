@@ -1,11 +1,11 @@
-<mxfile host="app.diagrams.net" modified="2023-09-25T03:16:24.699Z" agent="Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Mobile Safari/537.36" etag="grpvhmLVmUTj7Cw3FIwX" version="21.8.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-09-25T03:20:44.772Z" agent="Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Mobile Safari/537.36" etag="3_gztl4vP4qxD2E9AA8j" version="21.8.2" type="github">
   <diagram id="TGpe45YdTHm00n5unMOi" name="Page-2">
-    <mxGraphModel dx="2594" dy="2032" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1336" dy="1549" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="XvxGuA_PLaIaQm-edbHC-43" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="80" y="-1030" width="1200" height="620" as="geometry" />
+          <mxGeometry x="80" y="-1030" width="1220" height="620" as="geometry" />
         </mxCell>
         <mxCell id="XvxGuA_PLaIaQm-edbHC-31" value="&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="XvxGuA_PLaIaQm-edbHC-43">
           <mxGeometry width="1200" height="620" as="geometry" />
@@ -113,7 +113,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="zHc5FtYi1ibVrk5QGJjf-5" value="" style="group;rotation=90;" parent="XvxGuA_PLaIaQm-edbHC-43" vertex="1" connectable="0">
-          <mxGeometry x="42.35294117647059" y="405" width="296.47058823529414" height="109" as="geometry" />
+          <mxGeometry x="42.35294117647059" y="405" width="327.6470588235295" height="205" as="geometry" />
         </mxCell>
         <mxCell id="cLZUiNcZSRKTFdNPr3M2-4" value="Service Providers" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;fontStyle=1;fontSize=15;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="zHc5FtYi1ibVrk5QGJjf-5" vertex="1">
           <mxGeometry width="296.47058823529414" height="109" as="geometry" />
@@ -142,7 +142,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="XvxGuA_PLaIaQm-edbHC-5" value="" style="group;fontStyle=1" vertex="1" connectable="0" parent="XvxGuA_PLaIaQm-edbHC-43">
-          <mxGeometry x="960" y="145" width="155.2941176470588" height="114.00000000000003" as="geometry" />
+          <mxGeometry x="960" y="145" width="250" height="155" as="geometry" />
         </mxCell>
         <mxCell id="cLZUiNcZSRKTFdNPr3M2-1" value="" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;fillColor=#fad7ac;strokeColor=#b46504;" parent="XvxGuA_PLaIaQm-edbHC-5" vertex="1">
           <mxGeometry y="30.000000000000004" width="155.2941176470588" height="84.00000000000003" as="geometry" />
@@ -160,11 +160,14 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="XvxGuA_PLaIaQm-edbHC-34" value="UrbnRover Architecture" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=40;" vertex="1" parent="XvxGuA_PLaIaQm-edbHC-43">
-          <mxGeometry x="249.34588235294117" y="35.00000000000001" width="658.9411764705883" height="40" as="geometry" />
-        </mxCell>
         <mxCell id="XvxGuA_PLaIaQm-edbHC-24" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="XvxGuA_PLaIaQm-edbHC-43" source="cLZUiNcZSRKTFdNPr3M2-18" target="cLZUiNcZSRKTFdNPr3M2-6">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="XvxGuA_PLaIaQm-edbHC-45" value="UrbnRover Architecture" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=5;fontSize=40;labelBorderColor=default;spacingTop=9;" vertex="1" parent="XvxGuA_PLaIaQm-edbHC-43">
+          <mxGeometry x="259.3458823529412" y="45.00000000000001" width="658.9411764705883" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="XvxGuA_PLaIaQm-edbHC-34" value="Vedant Himte" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=40;textOpacity=20;" vertex="1" parent="XvxGuA_PLaIaQm-edbHC-43">
+          <mxGeometry x="860" y="-10" width="400" height="90" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
